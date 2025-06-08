@@ -37,3 +37,8 @@ SQL
     <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,php,mysql," />
   </a>
 </p>
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavon&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavon&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+</div>
