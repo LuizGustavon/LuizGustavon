@@ -1,3 +1,5 @@
+<img src = "gifProgram.gif" width = "325px" align = "right">
+
 # Bem Vindo ao meu GitHub
 
 Sou Desenvolvedor de Sistemas, Formado em Técnico em Infomática, E com tecnólogo de Analise e Desenvolvimento de Sistemas em andamento, tenho Projetos realizados para fins de aprendizado, dentro da minha instituiçao de ensino IFRO - Campus Ji-Paraná, projetos realizados por minha equipe e eu, como [Calculadora](https://github.com/LuizGustavon/Calculadora), [Hamburgueria do Prazer](https://github.com/WashingtonCost/Hamburgueria).
@@ -8,7 +10,9 @@ CSS
 JavaScript
 PHP
 SQL
+
 ---
+
 <div id = "badges">
   <a href = "https://www.linkedin.com/in/luiz-gustavon-barbosa-de-lima-9a22912a6/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,3 +31,9 @@ SQL
   </a>
   
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,php,mysql," />
+  </a>
+</p>
