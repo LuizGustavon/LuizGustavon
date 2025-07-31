@@ -35,15 +35,18 @@ Protótipo de interface navegável criado em Figma, com foco em experiência do 
 <h3 align="center">Linguagens de Programação:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,php,mysql" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,php,html,css,mysql" />
+  </a><br>
+  <sup> &nbsp; &nbsp; C# &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp; &nbsp; PHP &nbsp; &nbsp; &nbsp; &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp;  CSS &nbsp; &nbsp; &nbsp; &nbsp; MySQL </sup>
 </p>
+
 
 <h3 align="center">Programas Utilizados:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,figma,windows" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=vscode,rider,visualstudio,figma,windows" />
+  </a><br>
+  <sup> &nbsp; &nbsp;VSCode &nbsp; &nbsp; &nbsp; Rider &nbsp; VisualStudio &nbsp; Figma &nbsp; &nbsp; Windows &nbsp;</sup>
 </p>
 
 <h3 align="center">Redes Sociais</h3>
