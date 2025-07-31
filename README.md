@@ -67,9 +67,9 @@ Protótipo de interface navegável criado em Figma, com foco em experiência do 
 </div>
 
 #
-<h3>Histórico</h3>
+<h3 align="center">Histórico</h3>
 
-<div align = "left">
+<div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavon&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavon&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
