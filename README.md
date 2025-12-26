@@ -7,7 +7,7 @@ Sou desenvolvedor de sistemas, formado como Técnico em Informática e atualment
 <h3>Projetos Web</h3>
 
 ***[Hamburgueria do Prazer](https://github.com/WashingtonCost/Hamburgueria)<br>***
-Projeto Full Stack com integração ao Banco de Dados
+Projeto Full Stack com integração ao Banco de Dados SQL
 
 16 Telas:<br>
 Login/Cadastro Usuário/Cadastro Funcionário<br>
@@ -19,6 +19,17 @@ Apoie-nos/Localização/Chefes
 (Projeto realizado para fins de aprendizado, dentro da minha instituiçao de ensino IFRO - Campus Ji-Paraná) projeto concluído por minha equipe e eu em 2023.
 
 <h3>Projetos Desktop</h3>
+
+***[Sistema Eleitoral]()<br>***
+Sistema de Eleições Interativas Simplificado.
+
+Desenvolvido em Windows Forms (C#) que simula um processo de eleição eletrônica. O sistema permite o cadastro de candidatos, a realização da votação e a apuração automática dos resultados.
+
+A aplicação conta com validações de segurança, garantindo votos válidos, brancos e nulos, além de impedir erros durante o processo. A interface é simples e intuitiva, facilitando a navegação entre as telas.
+
+Os dados de candidatos e votos são armazenados em arquivos Excel (.xlsx) e manipulados em memória por meio de listas, possibilitando contagens, ordenações e cálculos dos resultados.
+
+O sistema é composto pelas telas de Menu Principal, Cadastro de Candidatos, Votação Interativa e Apuração de Resultados.
 
 ***[Calculadora](https://github.com/LuizGustavon/Calculadora)<br>***
 Projeto focado no desenvolvimento da lógica de programação 
@@ -33,7 +44,7 @@ Linguagem utilizada C#, e interface gráfica criada em Windows Forms.
 ***[Distribuidora PitStop](https://www.figma.com/proto/CKE3xncjDIO3YuyWodptC0/BebSys?node-id=105-949&t=ZefsBQGTB8ZqY3rz-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A949)*** <br>
 Projeto em Equipe.
 
-Fiquei responsável pelas telas de ***[Estoque](https://www.figma.com/proto/CKE3xncjDIO3YuyWodptC0/BebSys?node-id=1864-21335&t=ZefsBQGTB8ZqY3rz-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A949)***
+Fiquei responsável pelas telas de **[Estoque](https://www.figma.com/proto/CKE3xncjDIO3YuyWodptC0/BebSys?node-id=1864-21335&t=ZefsBQGTB8ZqY3rz-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A949)**
 Pedidos, Entrada, Troca e Ajuste. realizamos tambem a separação dos requisitos Funcionãis e nao funcionais e Casos de Usos e Caso de Uso Expandido.
 
 ***[Materiais para Contrução](https://www.figma.com/proto/41n6mkzBn5O5OL38BgGCFr/Trabalho-Engenharia?node-id=12-2&t=cnilPEDg0ZNkcgBw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A2)*** <br> 
