@@ -33,11 +33,17 @@ Linguagem utilizada C#, e interface gráfica criada em Windows Forms.
 ***[Distribuidora PitStop](https://www.figma.com/proto/CKE3xncjDIO3YuyWodptC0/BebSys?node-id=105-949&t=ZefsBQGTB8ZqY3rz-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A949)*** <br>
 Projeto em Equipe.
 
-Fiquei responsável pelas telas de ***[Estoque](https://www.figma.com/proto/CKE3xncjDIO3YuyWodptC0/BebSys?node-id=105-949&t=ZefsBQGTB8ZqY3rz-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A949)***
+Fiquei responsável pelas telas de ***[Estoque](https://www.figma.com/proto/CKE3xncjDIO3YuyWodptC0/BebSys?node-id=1864-21335&t=ZefsBQGTB8ZqY3rz-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=105%3A949)***
+Pedidos, Entrada, Troca e Ajuste. realizamos tambem a separação dos requisitos Funcionãis e nao funcionais e Casos de Usos e Caso de Uso Expandido.
 
 ***[Materiais para Contrução](https://www.figma.com/proto/41n6mkzBn5O5OL38BgGCFr/Trabalho-Engenharia?node-id=12-2&t=cnilPEDg0ZNkcgBw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A2)*** <br> 
+Projeto em Dupla.
+
+Fiquei responsável pelas telas de Consultas e Login, onde realizamos tambem a separação dos requisitos Funcionais e nao funcionais e decidimos o design.
 
 ***[Hamburgueria](https://www.figma.com/proto/HUzjklQmVKSDmBve2uP4wH/HamburgueariaPrazer?node-id=2-2&p=f&t=FOnKd9UbU5EdKSFB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)*** <br> 
+Projeto Solo.
+
 Protótipo de interface navegável criado em Figma, com foco em experiência do usuário e fluxo de pedidos para uma aplicação de vendas fictícia. Projetado com componentes reutilizáveis, telas navegáveis e layout intuitivo.
 #
 <h3 align="center">Linguagens de Programação:</h3>
@@ -78,9 +84,3 @@ Protótipo de interface navegável criado em Figma, com foco em experiência do 
 </div>
 
 #
-<h3 align="center">Histórico</h3>
-
-<div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavon&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=LuizGustavon&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
-</div>
